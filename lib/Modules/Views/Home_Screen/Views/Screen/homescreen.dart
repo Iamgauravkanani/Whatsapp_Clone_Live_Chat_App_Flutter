@@ -29,7 +29,9 @@ class HomeScreen extends StatelessWidget {
         titleTextStyle: TextStyle(color: Constant.textcolor, fontSize: 28),
         title: Text("WhatsApp"),
         bottom: TabBar(
-          labelStyle: TextStyle(fontSize: 18),
+          labelStyle: TextStyle(fontSize: 18, fontWeight: FontWeight.w800),
+          unselectedLabelStyle: TextStyle(fontWeight: FontWeight.w400),
+          unselectedLabelColor: Colors.white60,
           dividerColor: Constant.textcolor,
           labelColor: Constant.textcolor,
           indicatorColor: Constant.textcolor,

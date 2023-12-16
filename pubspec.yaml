@@ -77,9 +77,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - lib/Assets/Splash_Screen_Asset/
-    - lib/Assets/Welcome_Screen_Assets/
-    - lib/Assets/Login_Screen_Assets/
+    - lib/Assets/
+    - lib/Assets/Chat_Screen_Assets/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
