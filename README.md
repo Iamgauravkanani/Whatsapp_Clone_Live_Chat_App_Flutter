@@ -47,3 +47,21 @@ Project Evaluation:
 - User satisfaction with the application’s functionality and UI/UX
 - Quality of code and project structure
 - Presentation quality and clarity of communication
+
+
+<img src="https://github.com/Iamgauravkanani/Whatsapp_Clone_Two_Way_Chat_App_Flutter/assets/128220245/5521f7b5-1891-4a6b-b193-64a3812668dc" width="300px">
+<img src="https://github.com/Iamgauravkanani/Whatsapp_Clone_Two_Way_Chat_App_Flutter/assets/128220245/a073396a-e2b5-4db0-9ad9-12ed9c114fa0" width="300px">
+<img src="https://github.com/Iamgauravkanani/Whatsapp_Clone_Two_Way_Chat_App_Flutter/assets/128220245/e1f2b4a3-989f-4a61-b8d0-a4e447e204f5" width="300px">
+<img src="https://github.com/Iamgauravkanani/Whatsapp_Clone_Two_Way_Chat_App_Flutter/assets/128220245/988f4ab3-d2fb-42dc-80a4-6a88e4a2cfc9" width="300px">
+<img src="https://github.com/Iamgauravkanani/Whatsapp_Clone_Two_Way_Chat_App_Flutter/assets/128220245/16060a5e-6e41-4acf-8c09-b1c6feb98505" width="300px">
+<img src="https://github.com/Iamgauravkanani/Whatsapp_Clone_Two_Way_Chat_App_Flutter/assets/128220245/9e628d61-0ca1-4514-a47d-536317c5effc" width="300px">
+
+
+
+
+
+
+
+
+
+
